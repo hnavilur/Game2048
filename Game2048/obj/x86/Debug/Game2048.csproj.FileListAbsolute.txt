@@ -1,0 +1,10 @@
+D:\Projects\Visual C#\Game2048\Game2048\bin\Debug\Game2048.exe
+D:\Projects\Visual C#\Game2048\Game2048\bin\Debug\Game2048.pdb
+D:\Projects\Visual C#\Game2048\Game2048\obj\x86\Debug\Game2048.Form1.resources
+D:\Projects\Visual C#\Game2048\Game2048\obj\x86\Debug\Game2048.Properties.Resources.resources
+D:\Projects\Visual C#\Game2048\Game2048\obj\x86\Debug\Game2048.csproj.GenerateResource.Cache
+D:\Projects\Visual C#\Game2048\Game2048\obj\x86\Debug\Game2048.exe
+D:\Projects\Visual C#\Game2048\Game2048\obj\x86\Debug\Game2048.pdb
+D:\Projects\Visual C#\Game2048\Game2048\obj\x86\Debug\Game2048.csprojResolveAssemblyReference.cache
+D:\Study\Projects\Visual C#\Game2048\Game2048\obj\x86\Debug\Game2048.exe
+D:\Study\Projects\Visual C#\Game2048\Game2048\obj\x86\Debug\Game2048.pdb
